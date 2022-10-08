@@ -4,6 +4,10 @@ import java.awt.*;
 import javax.swing.*;
 
 
+/**
+ * @author Andrea
+ *
+ */
 public class vistaSwing extends JFrame {
 
 	private static final long serialVersionUID = 1L;
